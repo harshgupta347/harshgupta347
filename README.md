@@ -1,14 +1,14 @@
 # Hi there 👋 I'm HARSH GUPTA,
-Pursued BCA from Jain (Deemed-to-be University). 
-My specialization is Artificial Intelligence. 
-I'm responsible for planning, designing, developing ML projects, and exploring ETL PIPELINES. 
-In addition to these I've certain responsibilities, involving research and project planning. I'm proficient in Programming languages such as Python.
+- Pursued BCA from Jain (Deemed-to-be University). 
+- My specialization is Artificial Intelligence. 
+- I'm responsible for planning, designing, developing ML projects, and exploring ETL PIPELINES. 
+- In addition to these I've certain responsibilities, involving research and project planning. I'm proficient in Programming languages such as Python.
 
 #### Other relevant skills includes:-
-ADVANCED SQL EXCEL/GOOGLE SHEETS TABLEAU/POWER BI DATA ANALYTICS
-I'm well equipped to tackle a wide range of data science projects.
-CGPA- 9.1
-Connect with me here: https://www.linkedin.com/in/harsh-gupta-228612233/
+- ADVANCED SQL EXCEL/GOOGLE SHEETS TABLEAU/POWER BI DATA ANALYTICS
+- I'm well equipped to tackle a wide range of data science projects.
+- CGPA- 9.1
+- Connect with me here: https://www.linkedin.com/in/harsh-gupta-228612233/
 
 
 - I'm a Research Analyst.
