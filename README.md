@@ -3,7 +3,8 @@
 - 🌱 I’m currently enhancing skills on Database Management Systems 
 - 📫 How to reach me - harshguptadhn@gmail.com
 
-Hi there 👋 I'm HARSH GUPTA,
+
+### Hi there 👋 I'm HARSH GUPTA,
 Pursued BCA from Jain (Deemed-to-be University). 
 My specialization is Artificial Intelligence. 
 I'm responsible for planning, designing, developing ML projects, and exploring ETL PIPELINES. 
