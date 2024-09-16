@@ -11,7 +11,7 @@
 - Connect with me here: https://www.linkedin.com/in/harsh-gupta-228612233/
 
 
-- I'm a Research Analyst.
+### I'm a Research Analyst.
 - I'm currently doing internship at Edureka.
 - How to reach me: [(linkedin)](https://www.linkedin.com/in/harsh-gupta-228612233/)
 - Email - harshguptadhn@gmail.com
