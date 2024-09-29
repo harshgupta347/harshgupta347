@@ -7,7 +7,6 @@
 #### Other relevant skills includes:-
 - ADVANCED SQL EXCEL/GOOGLE SHEETS TABLEAU/POWER BI DATA ANALYTICS
 - I'm well equipped to tackle a wide range of data science projects.
-- CGPA- 9.1
 - Connect with me here: https://www.linkedin.com/in/harsh-gupta-228612233/
 
 
